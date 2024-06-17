@@ -83,7 +83,6 @@ local plugins = {
         "javascript",
         "typescript",
         "tsx",
-        "jsx",
         "rust",
       }
       return opts
