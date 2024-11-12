@@ -123,7 +123,7 @@ local plugins = {
           -- Key bindings for managing completions in virtual text mode.
           key_bindings = {
             -- Accept the current completion.
-            accept = "<Tab>",
+            accept = "<C-v>",
             -- Accept the next word.
             accept_word = false,
             -- Accept the next line.
